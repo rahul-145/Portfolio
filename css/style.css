@@ -678,6 +678,10 @@ h3.my-profession{
     cursor: pointer;
 }
 
+.portfolio .portfolio-item-inner figcaption{
+    color: var(--text-black-900);;
+}
+
 .portfolio .portfolio-item-inner .portfolio-img img{
     width: 100%;
     display: block;
